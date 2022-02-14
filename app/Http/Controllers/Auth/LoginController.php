@@ -16,7 +16,7 @@ class LoginController extends Controller
 
     public function signup(Request $request)
     {
-        if ($request->username == "a" && $request->password == "1") //Amorcito 21102017
+        if ($request->username == "Amorcito" && $request->password == "21102017")
         {
             return redirect('/home');
         }
