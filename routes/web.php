@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Auth\LoginController;
+use App\Http\Controllers\HomeController;
 
 /*
 |--------------------------------------------------------------------------
@@ -13,8 +14,8 @@ use App\Http\Controllers\Auth\LoginController;
 | contains the "web" middleware group. Now create something great!
 |
 */
+Route::redirect('/', '/login');
 
-Route::get('/', function () { return view('home'); })->name('home');
-
-Route::get('/login', [LoginController::class, 'index'])->name('login');
-Route::post('/signup', [LoginController::class, 'signup'])->name('signup');
+Route::get('/login',        [LoginController::class, 'index'])->name('login');
+Route::post('/signup',      [LoginController::class, 'signup'])->name('signup');
+Route::get('/home',         [HomeController::class, 'index'])->name('home');

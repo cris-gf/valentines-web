@@ -18,7 +18,7 @@ class LoginController extends Controller
     {
         if ($request->username == "a" && $request->password == "1") //Amorcito 21102017
         {
-            return redirect('/');
+            return redirect('/home');
         }
         else
         {
