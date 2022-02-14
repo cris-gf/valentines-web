@@ -52,7 +52,7 @@
                                 Pero sabes que siempre estaré para ti mi vida. Te amo con todo mi corazón mi vida, te agradezco todo lo que haces por mí. Te juro que contigo me siento tan diferente amor, como con nadie más. 
                                 Tú me haces ser una mejor persona y te agradezco tanto por eso mi vida hermosa. Todo este tiempo me ha servido para entenderte mejor, hacer lo mejor para ti, porque tú eres lo mejor de mi vida. 
                                 Me haces tanta falta pero sé que tenemos toda la vida para estar juntos, quiero que tú y yo siempre estemos juntos amor. Espero que te guste este regalo para ti mi vida, quiero demostrarte lo mucho que te quiero con lo poquito que sé mi amor. 
-                                Quiero alegrarte y que sea un día muy especial mi vida, que lo recuerdes con mucho cariño preciosa. Te amo mucho cielito.
+                                Quiero alegrarte y que sea un día muy especial mi vida, que lo recuerdes con mucho cariño y pueda hacerte muy feliz preciosa. Sabes que estoy para ti para lo que sea mi amor. Te amo mucho cielito.
                             </p>
                         </div>
                     </div>
