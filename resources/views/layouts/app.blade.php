@@ -8,6 +8,7 @@
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
     <title>{{ config('app.name', 'Laravel') }}</title>
+    <link rel="icon" type="image/x-icon" href="{{ asset('favicon.ico') }}">
 
     <!-- Scripts -->
     <script src="{{ asset('js/app.js') }}" defer></script>
@@ -26,8 +27,8 @@
     <div id="app">
         <nav class="navbar navbar-expand-md navbar-light nav-red shadow-sm fixed-top">
             <div class="container">
-                <a class="navbar-brand text-white nav-title" href="{{ url('/') }}">{{ config('app.name', 'Laravel') }}</a>
-                <i class="bi bi-heart-fill text-white heart"></i>
+                <a class="navbar-brand text-white nav-title" href="#">{{ config('app.name', 'Laravel') }}</a>
+                <a class="heart" href="{{ url('/') }}"><i class="bi bi-heart-fill text-white"></i></a>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent"></div>
             </div>
         </nav>

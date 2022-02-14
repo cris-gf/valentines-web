@@ -10,7 +10,7 @@
     font-size: 2rem;
 }
 .heart {
-    font-size: 3rem;
+    font-size: 2rem;
     text-align: right;
     width: 100%;
 }
@@ -41,11 +41,6 @@
 @media (max-width: 576px) {
     .nav-title {
         font-size: 1rem;
-    }
-    .heart {
-        font-size: 2rem;
-        text-align: right;
-        width: unset;
     }
     .main-name {
         max-width: 300px;
