@@ -19,19 +19,19 @@
     <!-- Styles -->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
     <link href="{{ asset('css/styles.css') }}" rel="stylesheet">
+    <link href="{{ asset('css/template.css') }}" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
 </head>
 <body>
     <div id="app">
-        <nav class="navbar navbar-expand-md navbar-light nav-red shadow-sm">
+        <nav class="navbar navbar-expand-md navbar-light nav-red shadow-sm fixed-top">
             <div class="container">
                 <a class="navbar-brand text-white nav-title" href="{{ url('/') }}">{{ config('app.name', 'Laravel') }}</a>
                 <i class="bi bi-heart-fill text-white heart"></i>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent"></div>
             </div>
         </nav>
-
-        <main class="py-4">
+        <main>
             @yield('content')
         </main>
     </div>

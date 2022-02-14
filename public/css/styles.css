@@ -14,6 +14,9 @@
     text-align: right;
     width: 100%;
 }
+.content {
+    background-color: #f5f3f2;
+}
 .card-border {
     border-radius: 25px;
 }
@@ -23,15 +26,12 @@
 }
 .main-name {
     max-width: 400px;
-    width: 30%;
 }
 .main-text {
     display: inline;
     width: 30%;
 }
-.main-image {
-    object-fit: contain;
-}
+
 @media (max-width: 768px) {
     .heart {
         width: unset;
@@ -47,11 +47,10 @@
         text-align: right;
         width: unset;
     }
-    .main-cover {
-        width: 100%;
-    }
     .main-name {
-
+        max-width: 300px;
+    }
+    .main-cover {
         width: 100%;
     }
 }
