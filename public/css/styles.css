@@ -14,6 +14,20 @@
     text-align: right;
     width: 100%;
 }
+.gradient-custom {
+    background: #EE0979;
+    background: -webkit-linear-gradient(to right, rgba(60, 4, 68, 1), rgba(238, 9, 121, 1));
+    background: linear-gradient(to right, rgba(60, 4, 68, 1), rgba(238, 9, 121, 1));
+  }
+input.transparent-input{
+    background-color: #3C0444 !important;
+    border:none !important;
+    color: white !important;
+ }
+.login-img {
+    width: 100%;
+    max-width: 200px;
+}
 .content {
     background-color: #f5f3f2;
 }
