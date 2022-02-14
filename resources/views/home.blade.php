@@ -26,7 +26,10 @@
                     <div class="col-lg-6 order-lg-1">
                         <div class="p-sm-3 p-md-5">
                             <h2 class="display-4">Preciosa</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod aliquid, mollitia odio veniam sit iste esse assumenda amet aperiam exercitationem, ea animi blanditiis recusandae! Ratione voluptatum molestiae adipisci, beatae obcaecati.</p>
+                            <p>
+                                Mi amorcito lindo hoy es un día muy especial para mí, quiero recordarte lo mucho que Te Amo y que me encanta todo de ti. 
+                                Tu carita toda preciosa, sabes que me gustas muchísimo mi hermosa. Tú eres perfecta para mí cielo y no te cambiaría por nada mi amor.
+                            </p>
                             <a class="btn btn-primary btn-xl rounded-pill mt-md-5" href="#secondCard">Te gusto?</a>
                         </div>
                     </div>
@@ -45,10 +48,11 @@
                     <div class="col-lg-6">
                         <div class="pt-4 p-sm-3 p-md-5">
                             <p>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita ex consectetur aperiam doloremque ipsa dolores pariatur iusto assumenda perferendis ea fugit dolorum doloribus impedit vitae debitis quisquam ab, alias voluptate.
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita ex consectetur aperiam doloremque ipsa dolores pariatur iusto assumenda perferendis ea fugit dolorum doloribus impedit vitae debitis quisquam ab, alias voluptate.
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita ex consectetur aperiam doloremque ipsa dolores pariatur iusto assumenda perferendis ea fugit dolorum doloribus impedit vitae debitis quisquam ab, alias voluptate.
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita ex consectetur aperiam doloremque ipsa dolores pariatur iusto assumenda perferendis ea fugit dolorum doloribus impedit vitae debitis quisquam ab, alias voluptate.
+                                Quiero recordarte todos los momentos tan lindos que hemos tenido mi amor. Hice esto con mucho esfuerzo para ti mi vida, sé que estamos pasando una etapa difícil y que no podemos estar juntos. 
+                                Pero sabes que siempre estaré para ti mi vida. Te amo con todo mi corazón mi vida, te agradezco todo lo que haces por mí. Te juro que contigo me siento tan diferente amor, como con nadie más. 
+                                Tú me haces ser una mejor persona y te agradezco tanto por eso mi vida hermosa. Todo este tiempo me ha servido para entenderte mejor, hacer lo mejor para ti, porque tú eres lo mejor de mi vida. 
+                                Me haces tanta falta pero sé que tenemos toda la vida para estar juntos, quiero que tú y yo siempre estemos juntos amor. Espero que te guste este regalo para ti mi vida, quiero demostrarte lo mucho que te quiero con lo poquito que sé mi amor. 
+                                Quiero alegrarte y que sea un día muy especial mi vida, que lo recuerdes con mucho cariño preciosa. Te amo mucho cielito.
                             </p>
                         </div>
                     </div>
@@ -58,6 +62,6 @@
     </div>
 </div>
 <footer class="py-5 bg-black">
-    <div class="container px-5"><p class="m-0 text-center text-white small">Hecho con Amor por Cristian González</p></div>
+    <div class="container px-5"><p class="m-0 text-center text-white small">Hecho con Amor por @cris_gf</p></div>
 </footer>
 @endsection
